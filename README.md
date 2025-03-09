@@ -10,7 +10,7 @@ LAM Sophie
 ## Procédure d'installation et de lancement du site en local:
 ```bash
 
-git clone
+git clone https://github.com/Nakamury1/Portfolio.git
 npm i
 npm run dev
 
