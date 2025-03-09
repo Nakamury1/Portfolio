@@ -15,7 +15,7 @@ export default function Nav() {
         <nav className="flex flex-wrap items-center justify-between p-4 md:justify-around">
         <Link href="/">
         <Image
-            src="/Logo.png"
+            src="/logo.png"
             alt="Logo du site"
             width={100}
             height={100}
